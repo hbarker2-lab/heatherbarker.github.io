@@ -1,10 +1,4 @@
 
----
-title: Courses Taught
-layout: page
-permalink: /courses
----
-
 # Courses Taught
 
   - STS1100 Introduction To Statistical Reasoning (Advancing Equity Requirement)
