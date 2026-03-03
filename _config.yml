@@ -53,8 +53,8 @@ description: "DigitalArc Community Archiving Template - Demo Site"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "DigitalArc"
-authorname : "DigitalArc: An exhibit platform for collective storyelling & community archives"
+author: "Digital Portfolio"
+authorname : "Heather Barker's Digital Portfolio"
 sitelogo: site_logo.jpg
 placeholderimg: placeholder.png
 
