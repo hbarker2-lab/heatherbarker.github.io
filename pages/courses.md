@@ -1,3 +1,8 @@
+---
+title: Courses Taught
+layout: page
+permalink: /course
+---
 
 # Courses Taught
 
