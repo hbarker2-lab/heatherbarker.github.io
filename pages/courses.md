@@ -1,7 +1,7 @@
 ---
 title: Courses Taught
 layout: page
-permalink: /course
+permalink: /courses
 ---
 
 # Courses Taught
